@@ -20,6 +20,9 @@ Alpha Vantage provides realtime and historical financial market data through a s
 * EC2 instance: Instance type atleast t2.small or greater, OS image: Ubuntu
 * Airflow installation: Follow **required-packages.sh** file for the commands
 
+## Airflow DAG
+<img width="1431" alt="Airflow Dag" src="https://github.com/keerthanakumar1510/stock-data-airflow-data-engineering/assets/70489416/0edc8fbf-24e4-4c2a-849f-cdd13c8a11ac">
+
 ## Reference
 1. https://airflow.apache.org/docs/apache-airflow-providers-http/stable/_api/airflow/providers/http/sensors/http/index.html
 2. https://airflow.apache.org/docs/apache-airflow-providers-http/stable/_api/airflow/providers/http/operators/http/index.html
